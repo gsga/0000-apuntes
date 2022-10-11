@@ -1,4 +1,12 @@
-TERMINADOS
+DOCUMENTOS QUE ESTOY PREPARANDO
+
+Apunte Angular.docx
+Preguntas Angular.docx
+Apunte Spring Boot - JPA - Lombok.docx
+Preguntas Spring Boot.docx
+
+
+YA REVISADOS
 
 000-spring-boot-web-pelado
 00-spring-boot-initialzr
@@ -8,16 +16,25 @@ TERMINADOS
 05-inyeccion-dependencias
 05-spring-boot-mysql-jpa-simple
 30-spring-boot-frontend
-
-EN CURSO
-
 05-spring-boot-mysql-transactions
 
+REVISANDO AHORA
+
+C:\GIT\20-que-es-angular
+tutorial-4
+
+EN COLA PARA REVISAR
+
+20-angular-en-15-minutos
 
 
-Spring Boot MySQL transactions.docx
-Preguntas.docx
-Apunte Spring Boot - JPA - Lombok.docx
+NO LOS VOY A REVISAR POR AHORA
+
+06-lucas-moy
+06-spring-boot-custom-exceptions
+10-git-github
+11 SPRING BOOT JAKARTA
+11 SPRING BOOT MYSQL JDBC TEMPLATE
 
 
 
